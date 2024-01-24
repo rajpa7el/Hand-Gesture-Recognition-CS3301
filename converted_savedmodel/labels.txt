@@ -1,0 +1,6 @@
+0 Hello
+1 Ok
+2 Peace
+3 Rock
+4 Thumbs up
+5 No detection
